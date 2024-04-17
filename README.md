@@ -33,11 +33,7 @@ Estas informações podem ser úteis na análise e no eventual pleito de reajust
 **Nota Legal:** Esta análise destina-se exclusivamente a fins educacionais e não constitui aconselhamento financeiro ou de investimento. Os resultados e conclusões podem variar dependendo de fatores individuais e do contexto econômico atual.
 
 ## Resultados
-<br>
 ![1](https://github.com/MonteiroOscar98/salario-gringo/blob/main/Plot.jpg)
-<br>
 ![2](https://github.com/MonteiroOscar98/salario-gringo/blob/main/variacoes_df.jpg)
-<br>
 ![3](https://github.com/MonteiroOscar98/salario-gringo/blob/main/variacoes_periodo.jpg)
-<br>
 Portanto, sempre haverá uma variação a ser considerada podendo ser assumida pelo contratante ou pelo contratado.
