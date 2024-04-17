@@ -1,4 +1,3 @@
-# salario-gringo
 # Análise do Impacto da Variação do Dólar no Salário de Prestadores de Serviços Brasileiros para Empresas Estrangeiras
 
 ## Introdução
